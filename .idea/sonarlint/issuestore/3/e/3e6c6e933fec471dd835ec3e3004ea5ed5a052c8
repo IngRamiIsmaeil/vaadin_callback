@@ -1,0 +1,6 @@
+
+Gsquid:S2160"+Override the "equals" method in this class.(¶ ™¾8•æÂ‰,
+Esquid:S1068")Remove this unused "mySQL" private field.(‘š²€8•æÂ‰,
+Fsquid:S00108")Either remove or fill this block of code.(ùÊÎÜ8•æÂ‰,
+ksquid:S00116"NRename this field "LOG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶È˜Ê8•æÂ‰,
+Asquid:S1948"%Make "LOG" transient or serializable.(¶È˜Ê8•æÂ‰,

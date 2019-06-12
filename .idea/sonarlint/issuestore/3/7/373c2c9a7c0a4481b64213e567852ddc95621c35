@@ -1,0 +1,8 @@
+
+osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(Ìüë÷8•æÂ‰,
+Lsquid:S2160"+Override the "equals" method in this class.(÷“Ô úÿÿÿÿ8•æÂ‰,
+Psquid:S1481"/Remove this unused "sortOrders" local variable.(ÛÊ‹²üÿÿÿÿ8•æÂ‰,
+Psquid:S1481"/Remove this unused "sortOrders" local variable.(ÛÊ‹²üÿÿÿÿ8•æÂ‰,
+Fsquid:S1481"*Remove this unused "limit" local variable.(à—ÂÒ8•æÂ‰,
+Lsquid:S1481"+Remove this unused "offset" local variable.(…Æ…ÿÿÿÿÿ8•æÂ‰,
+Ksquid:S1948"*Make "jpaMySql" transient or serializable.(Î‰İóøÿÿÿÿ8•æÂ‰,

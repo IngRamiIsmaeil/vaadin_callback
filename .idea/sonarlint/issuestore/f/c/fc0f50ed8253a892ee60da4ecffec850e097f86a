@@ -1,0 +1,33 @@
+
+vsquid:S2068"U'password' detected in this expression, review this potentially hardcoded credential.(‡şÂùûÿÿÿÿ8•æÂ‰,
+Z"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(×†ôşşÿÿÿÿ8•æÂ‰,
+fsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(äŠ‡-8•æÂ‰,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(«ĞÁÎ8•æÂ‰,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÒÛÎĞøÿÿÿÿ8•æÂ‰,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ì±èıÿÿÿÿ8•æÂ‰,
+Xsquid:S2589"7Remove this expression which always evaluates to "true"(ÂÇ†€şÿÿÿÿ8•æÂ‰,
+Xsquid:S2589"7Remove this expression which always evaluates to "true"(÷«™üÿÿÿÿ8•æÂ‰,
+Xsquid:S2589"7Remove this expression which always evaluates to "true"(ÂÇ†€şÿÿÿÿ8•æÂ‰,
+Gsquid:S1481"+Remove this unused "aClass" local variable.(Å­Î¶8•æÂ‰,
+Psquid:S1172"4Remove this unused method parameter "filterProduct".(ÊéÁŸ8•æÂ‰,
+Isquid:S1172"-Remove this unused method parameter "sorter".(‘æõŒ8•æÂ‰,
+Isquid:S1172"-Remove this unused method parameter "filter".(›ì8•æÂ‰,
+csquid:S2259"GA "NullPointerException" could be thrown; "statement" is nullable here.(³úÀ‹8•æÂ‰,
+`squid:S2147"DCombine this catch with the one at line 25, which has the same body.(É®£8•æÂ‰,
+esquid:UselessImportCheck"7Remove this unused import 'java.util.stream.Collector'.(ß‹ÎÓøÿÿÿÿ8•æÂ‰,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8•æÂ‰,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8•æÂ‰,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8•æÂ‰,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8•æÂ‰,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8•æÂ‰,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8•æÂ‰,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8•æÂ‰,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8•æÂ‰,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8•æÂ‰,
+Hsquid:S1948",Make "connection" transient or serializable.(ÿ›ÅÒ8•æÂ‰,
+Lsquid:S1948"+Make "statement" transient or serializable.(„£„÷øÿÿÿÿ8•æÂ‰,
+Tsquid:S1948"3Make "preparedStatement" transient or serializable.(¿ä Óşÿÿÿÿ8•æÂ‰,
+Lsquid:S1948"+Make "resultSet" transient or serializable.(¿ˆ°úÿÿÿÿ8•æÂ‰,
